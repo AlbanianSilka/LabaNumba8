@@ -1,0 +1,10 @@
+C:\Users\Айдар\source\repos\LabaNumba8\LabaNumba8\bin\Debug\LabaNumba8.exe.config
+C:\Users\Айдар\source\repos\LabaNumba8\LabaNumba8\bin\Debug\LabaNumba8.exe
+C:\Users\Айдар\source\repos\LabaNumba8\LabaNumba8\bin\Debug\LabaNumba8.pdb
+C:\Users\Айдар\source\repos\LabaNumba8\LabaNumba8\obj\Debug\LabaNumba8.csprojAssemblyReference.cache
+C:\Users\Айдар\source\repos\LabaNumba8\LabaNumba8\obj\Debug\LabaNumba8.Form1.resources
+C:\Users\Айдар\source\repos\LabaNumba8\LabaNumba8\obj\Debug\LabaNumba8.Properties.Resources.resources
+C:\Users\Айдар\source\repos\LabaNumba8\LabaNumba8\obj\Debug\LabaNumba8.csproj.GenerateResource.cache
+C:\Users\Айдар\source\repos\LabaNumba8\LabaNumba8\obj\Debug\LabaNumba8.csproj.CoreCompileInputs.cache
+C:\Users\Айдар\source\repos\LabaNumba8\LabaNumba8\obj\Debug\LabaNumba8.exe
+C:\Users\Айдар\source\repos\LabaNumba8\LabaNumba8\obj\Debug\LabaNumba8.pdb
